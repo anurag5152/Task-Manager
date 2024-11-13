@@ -13,4 +13,4 @@ Open the project folder where the files are located.
 Tasks are saved locally in the browser's localStorage, meaning that data will persist across sessions. However, this data is specific to the browser and device you use, so clearing your browser’s cache will also erase saved tasks. And I just did what i was intructed to do.
 
 #Link:
-https://task-manager52.netlify.app/
+https://task-manager52.netlify.app/  (First add some tasks)
