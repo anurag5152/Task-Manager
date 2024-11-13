@@ -5,7 +5,7 @@ Finally, I took an additional hour to refine the design, making it look visually
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2)What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+ 2)What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 Ans: I think the most useful feature added to JavaScript in recent versions is the localStorage API.
 This feature allows web applications to store data on the client side, persisting it even after the page is refreshed or the browser is closed.
 
@@ -41,7 +41,7 @@ function toggleComplete(index) {
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3)How would you track down a performance issue in production? Have you ever had to do this?
+ 3)How would you track down a performance issue in production? Have you ever had to do this?
 Ans: I have not yet had the opportunity to track down a performance issue in a production environment.
 But I would approach the task by Identifying Bottlenecks.
 I can focus on areas of the application that are likely to cause performance issues, such as large images, heavy scripts. 
